@@ -132,21 +132,21 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Sports
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Foodie
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Traveling
         description: ''
         percent: 80
         icon: camera
@@ -164,10 +164,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: TRB Student Travel Award
+    url: https://www.cts.umn.edu/education/awards/travel
+    date: '2024-11-15'
+    awarder: CTS
+    icon: "custom/ctsumn_logo"
+  - title: AAG Transportation Geography Specialty Group Student Travel Award
+    url: https://aag-tgsg.org/past.html
+    date: '2024-04-16'
+    awarder: AAG TGSG
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
