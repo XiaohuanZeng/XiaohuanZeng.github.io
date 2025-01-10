@@ -168,7 +168,7 @@ awards:
     url: https://www.cts.umn.edu/education/awards/travel
     date: '2024-11-15'
     awarder: CTS
-    icon: "custom/ctsumn_logo"
+    icon: "custom/UMN"
   - title: AAG Transportation Geography Specialty Group Student Travel Award
     url: https://aag-tgsg.org/past.html
     date: '2024-04-16'
