@@ -56,11 +56,7 @@ education:
     institution: University of Minnesota Twin Cities
     date_start: 2023-09-01
     date_end: 2026-05-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+
   - area: MS Computer Science
     institution: University of Minnesota Twin Cities
     date_start: 2023-09-01
@@ -78,8 +74,8 @@ education:
 
   - area: MA Geography
     institution: University of Minnesota Twin Cities
-    date_start: 2023-05-31
-    date_end: 2021-01-01
+    date_start: 2021-01-01
+    date_end: 2023-05-31
     summary: |
       GPA: 3.9/4.0
     
