@@ -94,28 +94,42 @@ education:
     summary: |
       GPA: 3.9/4.0
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Analyst Intern
+    company_name: RSG Inc
+    company_url: 'https://rsginc.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-05-01
+    date_end: 2024-08-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Calibrated travel demand models using Python to assist in transportation planning
+      - Developed Python pipelines to clean and visualize travel survey data to convey results to customers 
+      - Collaborated with consultants and developers while managing multiple tasks concurrently 
+
+  - position: Data Science Intern
+    company_name: Metro Transit
+    company_url: 'https://www.metrotransit.org/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-05-01
+    date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Applied time-series and spatial Bayesian models to predict transit ridership and bus travel time
+      - Developed an interactive dashboard to visualize transit ridership trends and monitor transit system performance
+      - Self-learned R and Shiny in a short time to enhance analytical capabilities and meet project requirements
+
+  - position: Transportation Planning Intern
+    company_name: Twin Cities Metropolitan Council
+    company_url: 'https://www.metrotransit.org/'
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2022-08-31
+    summary: |
+      Responsibilities include:
+      - Processed and analyzed datasets using Python scripts to address urban transportation challenges
+      - Improved time-series models for predicting daily traffic volumes based on various influencing factors
+      - Presented analytical findings to diverse stakeholders including both technical and non-technical audiences
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
