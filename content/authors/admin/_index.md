@@ -47,9 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Transportation
+  - Spatial Data Science
+  - Explainable Artificial Intelligence
 
 education:
   - area: PhD Artificial Intelligence
@@ -143,10 +143,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: French
     percent: 25
 
 # Awards.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaohuan Zeng is a graduate student in Geography and Computer Science at the University of Minnesota Twin Cities. Her research centers on leveraging spatial data science to address transportation challenges. She is actively seeking internship opportunities in transportation or data science for Summer 2025.
