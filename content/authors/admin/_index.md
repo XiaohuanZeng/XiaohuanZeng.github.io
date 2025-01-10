@@ -76,7 +76,7 @@ education:
       - Bayesian Analysis
       - Causal Inference
 
-    - area: MA Geography
+  - area: MA Geography
     institution: University of Minnesota Twin Cities
     date_start: 2023-05-31
     date_end: 2021-01-01
@@ -91,7 +91,7 @@ education:
       - Statistics with R
       - Emerging Trends in Transportation
 
-    - area: BS Geographic Information Science
+  - area: BS Geographic Information Science
     institution: Wuhan University
     date_start: 2016-09-01
     date_end: 2020-06-30
