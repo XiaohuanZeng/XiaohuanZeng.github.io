@@ -96,7 +96,7 @@ education:
 work:
   - position: Analyst Intern
     company_name: RSG Inc
-    company_url: 'https://rsginc.com/'
+    company_url: https://rsginc.com/
     company_logo: ''
     date_start: 2024-05-01
     date_end: 2024-08-31
@@ -108,7 +108,7 @@ work:
 
   - position: Data Science Intern
     company_name: Metro Transit
-    company_url: 'https://www.metrotransit.org/'
+    company_url: https://www.metrotransit.org/
     company_logo: ''
     date_start: 2023-05-01
     date_end: 2023-08-31
@@ -120,7 +120,7 @@ work:
 
   - position: Transportation Planning Intern
     company_name: Twin Cities Metropolitan Council
-    company_url: 'https://www.metrotransit.org/'
+    company_url: https://metrocouncil.org/
     company_logo: ''
     date_start: 2022-05-01
     date_end: 2022-08-31
