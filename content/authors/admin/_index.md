@@ -108,7 +108,7 @@ work:
       - Collaborated with local transportation agencies, providing valuable insights for planning initiatives
       - Presented at 2025 TRB Annual Meeting: Assessing the Impact of Transit Right-of-Way on Service Reliability via Segment-Level Data Integration and Ensemble Learning
  
-- position: Research Assistant
+  - position: Research Assistant
     company_name: Hubert H. Humphrey School of Public Affairs, UMN
     company_url: https://www.hhh.umn.edu/
     company_logo: ''
