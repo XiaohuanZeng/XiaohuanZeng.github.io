@@ -94,6 +94,34 @@ education:
     summary: |
       GPA: 3.9/4.0
 work:
+
+  - position: Research Assistant
+    company_name: Department of Geography, Environment & Society, UMN
+    company_url: https://cla.umn.edu/geography
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: Present
+    summary: |2-
+      Responsibilities include:
+      - Evaluated transit service reliability using a large amount of bus location data
+      - Applied machine learning methods to identify key predictors affecting transit reliability
+      - Collaborated with local transportation agencies, providing valuable insights for planning initiatives
+      - Presented at 2025 TRB Annual Meeting: Assessing the Impact of Transit Right-of-Way on Service Reliability via Segment-Level Data Integration and Ensemble Learning
+ 
+- position: Research Assistant
+    company_name: Hubert H. Humphrey School of Public Affairs, UMN
+    company_url: https://www.hhh.umn.edu/
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2023-05-01
+    summary: |2-
+      Responsibilities include:
+      - Developed a Python prototype to analyze travel survey data from over 400 individuals across 10+ communities
+      - Created 50+ visualizations to effectively communicate travel behavior insights in a workshop
+      - Applied statistical models to explore the relationship between travel segregation and self-reported emotions 
+      - Presented at 2025 TRB Annual Meeting: Evaluating Exposures to Social Environments during Everyday Travel Using Smartphone-based Travel Dairies and Spatio-Temporal Computing
+
+
   - position: Analyst Intern
     company_name: RSG Inc
     company_url: https://rsginc.com/
