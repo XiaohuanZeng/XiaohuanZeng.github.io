@@ -100,7 +100,7 @@ work:
     company_url: https://cla.umn.edu/geography
     company_logo: ''
     date_start: 2023-08-01
-    date_end: Present
+    date_end: 2025-06-30
     summary: |2-
       Responsibilities include:
       - Evaluated transit service reliability using a large amount of bus location data
